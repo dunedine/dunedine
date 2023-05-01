@@ -29,11 +29,11 @@
 <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/></a>
 
 
+- Beautiful Soup, Selenium 활용한 데이터 크롤링
 - SQL을 통한 데이터 정제 및 가공, 분석 경험
 - Numpy, Matplotlib, Pandas를 이용한 데이터 처리 경험
 - Python sklearn,keras 사용한 데이터 분석 및 모델링 경험
-- Beautiful Soup, Selenium 활용한 데이터 크롤링
-- Tableau를 활용한 데이터 시각화 및 대시보드 구축 경험험
+- Tableau를 활용한 데이터 시각화 및 대시보드 구축 경험
 - Kaggle을 이용한 머신러닝 경진대회 탐색적 데이터 분석, 데이터 시각화, 베이스라인 모델, 성능 개선 경험
 
 
