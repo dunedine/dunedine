@@ -1,5 +1,5 @@
 
-# 데이터분석가 주은진입니다! ✋
+# 데이터분석가 주은진입니다! 👋
 - **Email**: juhaeneul@gmail.com
 - **Blog**: https://dunedine.tistory.com
 - **Github**: https://github.com/dunedine
