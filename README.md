@@ -46,7 +46,7 @@
 ## Education :book:
 
 **동아대 경영정보학과**(2020.03 ~ 재학 중)  
-- 유통판매데이터 분석(A)
+- 유통판매데이터 분석
 
 **Study** 📄
 - **동아대 IT 취업 동아리 - SQL 스터디(2022.04.12 ~ 2022.07.22)**
@@ -58,6 +58,8 @@
   - 활용 도서: [Musthave 머신러닝 딥러닝 문제해결 전략](https://drive.google.com/file/d/1WhlQ3RUEuRfoF79ZhFe6iuGmRoF2NCBe/view)
 
 - **디지털스마트부산 아카데미 - (2022.09.05 ~ 2023.02.13)**
+ - Sentence BERT를 이용한 문장 쌍 회귀 태스크로 유사도 학습 모델 구축
+ - Sentence BERT를 이용한 문장 쌍 회귀 태스크로 유사도 학습 모델 구축
 
 
 ## Projects :sparkles:
