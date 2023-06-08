@@ -57,13 +57,14 @@
   - 깃허브 주소: [머신러닝 딥러닝 문제해결 전략 스터디](https://github.com/donga-it-club/ML_DL_Problemsolving_Study)
   - 활용 도서: [Musthave 머신러닝 딥러닝 문제해결 전략](https://drive.google.com/file/d/1WhlQ3RUEuRfoF79ZhFe6iuGmRoF2NCBe/view)
 
-- **디지털스마트부산 아카데미 - (2022.09.05 ~ 2023.02.13)**
- - Sentence BERT를 이용한 문장 쌍 회귀 태스크로 유사도 학습 모델 구축
- - Sentence BERT를 이용한 문장 쌍 회귀 태스크로 유사도 학습 모델 구축
 
 
 ## Projects :sparkles:
 
- 
+### 디지털스마트부산 아카데미 - (2022.03.02 ~ 2023.06.23)
+
+- Selenium을 통해 크롤링한 이미지 데이터를 이용해 이미지 이진 분류 모델 구축
+- Sentence BERT를 이용한 문장 쌍 회귀 태스크로 유사도 학습 모델 구축
+- 금융 학습 기사 추천 서비스 android 어플 
 
 
