@@ -55,6 +55,7 @@
 
 - **동아대 IT 취업 동아리 - 머신러닝 딥러닝 문제해결 전략 스터디(2022.09.05 ~ 2023.02.13)**
   - 깃허브 주소: [머신러닝 딥러닝 문제해결 전략 스터디](https://github.com/donga-it-club/ML_DL_Problemsolving_Study)
+  - 발표 자료: [5장 실습 블로깅](https://dunedine.tistory.com/4), [5장 실습 블로깅2](https://dunedine.tistory.com/5), [5장 실습 블로깅3](https://dunedine.tistory.com/6),  [6장 실습 블로깅](https://dunedine.tistory.com/6), [6장 실습 블로깅2](https://dunedine.tistory.com/8), [7장 실습 블로깅](https://dunedine.tistory.com/9), [8장 실습 블로깅](https://dunedine.tistory.com/11), [8장 실습 블로깅2](https://dunedine.tistory.com/12), [8장 실습 블로깅3](https://dunedine.tistory.com/13), [9장 실습 블로깅](https://dunedine.tistory.com/14), [12장 실습 블로깅](https://dunedine.tistory.com/15), [12장 실습 블로깅2](https://dunedine.tistory.com/16)
   - 활용 도서: [Musthave 머신러닝 딥러닝 문제해결 전략](https://drive.google.com/file/d/1WhlQ3RUEuRfoF79ZhFe6iuGmRoF2NCBe/view)
 
 - **동아대 IT 취업 동아리 - SQL 스터디(2022.04.12 ~ 2022.07.22)**
