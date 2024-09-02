@@ -8,8 +8,8 @@
 
 
 ## Summary
-> 2024년 하반기 취업을 목표하고 있습니다. 
-> 가장 관심이 있는 도메인은 이커머스 데이터, 금융 데이터입니다.
+> 2024년 하반기 취업을 목표로 공부하고 있습니다. 
+> 가장 관심이 있는 도메인은 e커머스, 금융입니다.
 
 
 ## Skills :bulb:
@@ -49,15 +49,18 @@
 - 유통판매데이터 분석
 
 **Study** 📄
-- **동아대 IT 취업 동아리 - SQL 스터디(2022.04.12 ~ 2022.07.22)**
-  - 깃허브 주소: [화요일엔 나도 SQL 요리사!](https://github.com/donga-it-club/SQL-STUDY)
-  - 활용 도서: [데이터분석을 위한 SQL 레시피](https://g.co/kgs/wPVrmG)
+- **동아대 IT 취업 동아리 - A/B테스트 스터디(2022.06.27 ~ 2023.09.26)**
+  - 깃허브 주소: [머신러닝 딥러닝 문제해결 전략 스터디](https://github.com/donga-it-club/ML_DL_Problemsolving_Study)
+  - 활용 도서: [Musthave 머신러닝 딥러닝 문제해결 전략](https://drive.google.com/file/d/1WhlQ3RUEuRfoF79ZhFe6iuGmRoF2NCBe/view)
 
 - **동아대 IT 취업 동아리 - 머신러닝 딥러닝 문제해결 전략 스터디(2022.09.05 ~ 2023.02.13)**
   - 깃허브 주소: [머신러닝 딥러닝 문제해결 전략 스터디](https://github.com/donga-it-club/ML_DL_Problemsolving_Study)
   - 활용 도서: [Musthave 머신러닝 딥러닝 문제해결 전략](https://drive.google.com/file/d/1WhlQ3RUEuRfoF79ZhFe6iuGmRoF2NCBe/view)
 
-
+- **동아대 IT 취업 동아리 - SQL 스터디(2022.04.12 ~ 2022.07.22)**
+  - 깃허브 주소: [화요일엔 나도 SQL 요리사!](https://github.com/donga-it-club/SQL-STUDY)
+  - [6장 요약 블로깅](https://dunedine.tistory.com/2), [8장 요약 블로깅](https://dunedine.tistory.com/2)
+  - 활용 도서: [데이터분석을 위한 SQL 레시피](https://g.co/kgs/wPVrmG)
 
 ## Projects :sparkles:
 
