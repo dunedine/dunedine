@@ -34,6 +34,7 @@
 - Numpy, Matplotlib, Pandas를 이용한 데이터 처리 경험
 - Python sklearn,keras 사용한 데이터 분석 및 모델링 경험
 - Tableau를 활용한 데이터 시각화 및 대시보드 구축 경험
+- GA를 활용한 웹사이트 사용자 데이터 분석 경험
 
 
 
